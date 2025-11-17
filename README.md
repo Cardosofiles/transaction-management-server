@@ -13,6 +13,8 @@
 
 ---
 
+<img src="docs/images/transaction-management-server.png" alt="Transaction Management Server Banner" />
+
 ## 🛠️ Tecnologias
 
 <div align="center">
